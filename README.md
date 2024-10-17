@@ -1,6 +1,6 @@
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
-**NAME : R.SANJANA**
-**REGISTER NO : 212223240148**
+**NAME : R.SANJAY SIVARAMAKRISHNAN M**
+**REGISTER NO : 212223240151**
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
